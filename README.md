@@ -57,8 +57,9 @@
 ### 2. Клонирование проекта
 
 ```bash
-git clone https://github.com/<ваш-репозиторий>/market-parsing-service.git
+git clone https://github.com/PulserCoder/Marketplace_Parsing_Service.git
 cd market-parsing-service
+mvn install
 ```
 ### Настройка `application.properties`
 
